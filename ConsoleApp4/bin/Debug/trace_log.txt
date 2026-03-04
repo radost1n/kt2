@@ -1,0 +1,34 @@
+Tracer: TaskManager создан
+Tracer: TaskManager создан
+Tracer: Начало AddTask с title='артем доля'
+Tracer: Задача 1 добавлена в список
+Tracer: Начало ListTasks
+Tracer: Выведено 1 задач(и)
+Tracer: TaskManager создан
+Tracer: Начало ListTasks
+Tracer: Список задач пуст
+Tracer: Начало AddTask с title='артем доля лашок'
+Tracer: Задача 1 добавлена в список
+Tracer: TaskManager создан
+Tracer: Начало ListTasks
+Tracer: Список задач пуст
+Tracer: Начало AddTask с title='ваня бургер мен'
+Tracer: Задача 1 добавлена в список
+Tracer: Начало ListTasks
+Tracer: Выведено 1 задач(и)
+Tracer: TaskManager создан
+Tracer: Начало AddTask с title='аывпыпыпывпвыпып'
+Tracer: Задача 1 добавлена в список
+Tracer: Начало ListTasks
+Tracer: Выведено 1 задач(и)
+Tracer: Начало RemoveTask с id=1
+Tracer: Задача 1 удалена
+Tracer: Начало ListTasks
+Tracer: Список задач пуст
+Tracer: TaskManager создан
+Tracer: Начало AddTask с title='дададад'
+Tracer: Задача 1 добавлена в список
+Tracer: Начало ListTasks
+Tracer: Выведено 1 задач(и)
+Tracer: Начало RemoveTask с id=1
+Tracer: Задача 1 удалена
